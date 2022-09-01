@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/abby/static/css/main.67fe97b1.css",
-    "main.js": "/abby/static/js/main.f78bdfde.js",
+    "main.js": "/abby/static/js/main.849f99b6.js",
     "static/js/787.14b846e9.chunk.js": "/abby/static/js/787.14b846e9.chunk.js",
     "index.html": "/abby/index.html",
     "main.67fe97b1.css.map": "/abby/static/css/main.67fe97b1.css.map",
-    "main.f78bdfde.js.map": "/abby/static/js/main.f78bdfde.js.map",
+    "main.849f99b6.js.map": "/abby/static/js/main.849f99b6.js.map",
     "787.14b846e9.chunk.js.map": "/abby/static/js/787.14b846e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67fe97b1.css",
-    "static/js/main.f78bdfde.js"
+    "static/js/main.849f99b6.js"
   ]
 }
